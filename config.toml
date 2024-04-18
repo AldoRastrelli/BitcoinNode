@@ -1,0 +1,6 @@
+logger_file_location = "./logs/log.txt"
+dns = "seed.testnet.bitcoin.sprovoost.nl"
+protocol_version = "70015"
+project_start_date = "2023-04-20"
+testnet_port = "18333"
+server_seed = "127.0.0.1"
